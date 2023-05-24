@@ -1,1 +1,3 @@
-# ISYE_Practice_1
+# XGboost Sample
+
+Using german dataset
