@@ -1,3 +1,3 @@
 # XGboost Sample
 
-Using german dataset
+Using german credit dataset
